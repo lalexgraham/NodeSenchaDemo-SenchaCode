@@ -1,0 +1,13 @@
+Requirements:
+============
+
+Sencha Touch 2 app to demo data retrieved from Node.js app
+
+.gitignore excludes 
+
+/archive
+/build
+/resources
+/sdk
+
+so to use this example, create  a sencha template application through the Sencha sdk with "sencha create"  command a(http://docs.sencha.com/touch/2-0/#!/guide/getting_started-section-4) and copy the contents of this repo into the root folder of the new application. 
